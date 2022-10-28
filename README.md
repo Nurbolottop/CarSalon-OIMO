@@ -1,1 +1,1 @@
-# CarSalon-OIMO
+# MagazinOIMO
